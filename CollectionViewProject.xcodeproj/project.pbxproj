@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D5D4C60194B05F900547A01 /* GOTHeaderCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D5D4C5F194B05F900547A01 /* GOTHeaderCollectionView.m */; };
+		1D5D4C6A194B0A9800547A01 /* baratheon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D5D4C62194B0A9800547A01 /* baratheon.jpg */; };
+		1D5D4C6B194B0A9800547A01 /* greyjoy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D5D4C63194B0A9800547A01 /* greyjoy.jpg */; };
+		1D5D4C6C194B0A9800547A01 /* lannister.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D5D4C64194B0A9800547A01 /* lannister.jpg */; };
+		1D5D4C6D194B0A9800547A01 /* stark.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D5D4C65194B0A9800547A01 /* stark.jpg */; };
+		1D5D4C6E194B0A9800547A01 /* targeryan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D5D4C66194B0A9800547A01 /* targeryan.jpg */; };
+		1D5D4C6F194B0A9800547A01 /* tully.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D5D4C67194B0A9800547A01 /* tully.jpg */; };
+		1D5D4C70194B0A9800547A01 /* tyrell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D5D4C68194B0A9800547A01 /* tyrell.jpg */; };
+		1D5D4C71194B0A9800547A01 /* wayne.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1D5D4C69194B0A9800547A01 /* wayne.jpg */; };
 		1DDE3389194AE555009A79A3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DDE3388194AE555009A79A3 /* Foundation.framework */; };
 		1DDE338B194AE555009A79A3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DDE338A194AE555009A79A3 /* CoreGraphics.framework */; };
 		1DDE338D194AE555009A79A3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DDE338C194AE555009A79A3 /* UIKit.framework */; };
@@ -73,6 +82,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1D5D4C5E194B05F900547A01 /* GOTHeaderCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GOTHeaderCollectionView.h; sourceTree = "<group>"; };
+		1D5D4C5F194B05F900547A01 /* GOTHeaderCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GOTHeaderCollectionView.m; sourceTree = "<group>"; };
+		1D5D4C62194B0A9800547A01 /* baratheon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = baratheon.jpg; sourceTree = "<group>"; };
+		1D5D4C63194B0A9800547A01 /* greyjoy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = greyjoy.jpg; sourceTree = "<group>"; };
+		1D5D4C64194B0A9800547A01 /* lannister.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lannister.jpg; sourceTree = "<group>"; };
+		1D5D4C65194B0A9800547A01 /* stark.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stark.jpg; sourceTree = "<group>"; };
+		1D5D4C66194B0A9800547A01 /* targeryan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = targeryan.jpg; sourceTree = "<group>"; };
+		1D5D4C67194B0A9800547A01 /* tully.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tully.jpg; sourceTree = "<group>"; };
+		1D5D4C68194B0A9800547A01 /* tyrell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tyrell.jpg; sourceTree = "<group>"; };
+		1D5D4C69194B0A9800547A01 /* wayne.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wayne.jpg; sourceTree = "<group>"; };
 		1DDE3385194AE555009A79A3 /* CollectionViewProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionViewProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DDE3388194AE555009A79A3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1DDE338A194AE555009A79A3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -162,6 +181,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1D5D4C61194B0A9800547A01 /* houses */ = {
+			isa = PBXGroup;
+			children = (
+				1D5D4C62194B0A9800547A01 /* baratheon.jpg */,
+				1D5D4C63194B0A9800547A01 /* greyjoy.jpg */,
+				1D5D4C64194B0A9800547A01 /* lannister.jpg */,
+				1D5D4C65194B0A9800547A01 /* stark.jpg */,
+				1D5D4C66194B0A9800547A01 /* targeryan.jpg */,
+				1D5D4C67194B0A9800547A01 /* tully.jpg */,
+				1D5D4C68194B0A9800547A01 /* tyrell.jpg */,
+				1D5D4C69194B0A9800547A01 /* wayne.jpg */,
+			);
+			path = houses;
+			sourceTree = "<group>";
+		};
 		1DDE337C194AE554009A79A3 = {
 			isa = PBXGroup;
 			children = (
@@ -195,6 +229,7 @@
 		1DDE338E194AE555009A79A3 /* CollectionViewProject */ = {
 			isa = PBXGroup;
 			children = (
+				1D5D4C61194B0A9800547A01 /* houses */,
 				1DDE33BD194AE5CE009A79A3 /* Controllers */,
 				1DDE33C0194AE5EF009A79A3 /* Models */,
 				1DDE33BE194AE5DE009A79A3 /* Resources */,
@@ -260,6 +295,8 @@
 			children = (
 				1DDE3415194AF1FF009A79A3 /* GOTChatacterTableViewCell.h */,
 				1DDE3416194AF1FF009A79A3 /* GOTChatacterTableViewCell.m */,
+				1D5D4C5E194B05F900547A01 /* GOTHeaderCollectionView.h */,
+				1D5D4C5F194B05F900547A01 /* GOTHeaderCollectionView.m */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -407,20 +444,28 @@
 				1DDE33E7194AE739009A79A3 /* arya.jpg in Resources */,
 				1DDE33FF194AE739009A79A3 /* robert.jpg in Resources */,
 				1DDE3407194AE739009A79A3 /* yara.jpg in Resources */,
+				1D5D4C70194B0A9800547A01 /* tyrell.jpg in Resources */,
 				1DDE3406194AE739009A79A3 /* viserys.jpg in Resources */,
 				1DDE33FD194AE739009A79A3 /* rickon.jpg in Resources */,
 				1DDE3408194AE739009A79A3 /* personajes.json in Resources */,
+				1D5D4C6F194B0A9800547A01 /* tully.jpg in Resources */,
 				1DDE3404194AE739009A79A3 /* tyrion.jpg in Resources */,
+				1D5D4C6E194B0A9800547A01 /* targeryan.jpg in Resources */,
+				1D5D4C6B194B0A9800547A01 /* greyjoy.jpg in Resources */,
 				1DDE3400194AE739009A79A3 /* sansa.jpg in Resources */,
 				1DDE3393194AE555009A79A3 /* InfoPlist.strings in Resources */,
+				1D5D4C6C194B0A9800547A01 /* lannister.jpg in Resources */,
 				1DDE33F0194AE739009A79A3 /* edmure.jpg in Resources */,
 				1DDE33FA194AE739009A79A3 /* myrcella.jpg in Resources */,
 				1DDE3403194AE739009A79A3 /* tommen.jpg in Resources */,
+				1D5D4C6A194B0A9800547A01 /* baratheon.jpg in Resources */,
+				1D5D4C71194B0A9800547A01 /* wayne.jpg in Resources */,
 				1DDE3405194AE739009A79A3 /* tywin.jpg in Resources */,
 				1DDE33F9194AE739009A79A3 /* margaery.png in Resources */,
 				1DDE339B194AE555009A79A3 /* Images.xcassets in Resources */,
 				1DDE33E9194AE739009A79A3 /* benjen.jpg in Resources */,
 				1DDE33F2194AE739009A79A3 /* jaime.jpg in Resources */,
+				1D5D4C6D194B0A9800547A01 /* stark.jpg in Resources */,
 				1DDE33EE194AE739009A79A3 /* daenerys.jpg in Resources */,
 				1DDE33EB194AE739009A79A3 /* brynden.jpg in Resources */,
 				1DDE33EA194AE739009A79A3 /* brandon.jpg in Resources */,
@@ -461,6 +506,7 @@
 				1DDE3410194AE743009A79A3 /* GotModel.m in Sources */,
 				1DDE3417194AF1FF009A79A3 /* GOTChatacterTableViewCell.m in Sources */,
 				1DDE340F194AE743009A79A3 /* Casa.m in Sources */,
+				1D5D4C60194B05F900547A01 /* GOTHeaderCollectionView.m in Sources */,
 				1DDE3395194AE555009A79A3 /* main.m in Sources */,
 				1DDE3414194AED1E009A79A3 /* UIColor+RandomColor.m in Sources */,
 				1DDE33BC194AE5CA009A79A3 /* CollectionViewController.m in Sources */,
@@ -663,6 +709,7 @@
 				1DDE33B3194AE555009A79A3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1DDE33B4194AE555009A79A3 /* Build configuration list for PBXNativeTarget "CollectionViewProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -671,6 +718,7 @@
 				1DDE33B6194AE555009A79A3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

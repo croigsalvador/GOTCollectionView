@@ -2,7 +2,7 @@
   "houses": [
     {
       "name": "Stark",     
-      "image": "stark",   
+      "image": "stark.jpg",
       "theme": "Winter is Coming",   
       "people": [
         {
@@ -55,7 +55,7 @@
 
     {
       "name": "Lannister",
-      "image": "lannister", 
+      "image": "lannister.jpg",
       "theme": "Hear me Roar!",                 
       "people": [
         {
@@ -89,7 +89,7 @@
 
     {
       "name": "Baratheon",
-      "image": "baratheon",            
+      "image": "baratheon.jpg",
       "theme": "Ours is The Fury",      
       "people": [
         {
@@ -137,7 +137,7 @@
 
     {
       "name": "Targaryen",
-      "image": "targaryen", 
+      "image": "targeryan.jpg",
       "theme": "Fire and Blood",                 
       "people": [
         {
@@ -160,7 +160,7 @@
 
     {
       "name": "Greyjoy",
-      "image": "greyjoy",    
+      "image": "greyjoy.jpg",
       "theme": "We do not Sow",              
       "people": [
         {
@@ -184,7 +184,7 @@
 
     {
       "name": "Tyrell",
-      "image": "tyrell",   
+      "image": "tyrell.jpg",
       "theme": "Growing Strong",               
       "people": [
         {
@@ -207,7 +207,7 @@
 
     {
       "name": "Tully",
-      "image": "tully",            
+      "image": "tully.jpg",            
       "theme": "Family Duty Honor",      
       "people": [
         {
